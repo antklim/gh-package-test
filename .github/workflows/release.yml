@@ -41,5 +41,5 @@ jobs:
           npm ci
           npm run release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PUBLISH_PACKAGE_TOKEN }}
           # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
