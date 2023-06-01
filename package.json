@@ -1,6 +1,6 @@
 {
   "name": "@antklim/gh-package-test",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "Template for NPM package repository",
   "main": "build/index.js",
   "types": "build/index.d.ts",
