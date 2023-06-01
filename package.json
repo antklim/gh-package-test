@@ -31,7 +31,8 @@
   },
   "homepage": "https://github.com/antklim/gh-package-test#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "tag": "latest"
   },
   "devDependencies": {
     "@tsconfig/node-lts-strictest": "^18.12.1",
